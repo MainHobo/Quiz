@@ -1,0 +1,22 @@
+{
+  "name": "quiz",
+  "version": "1.0.0",
+  "description": "A quiz app using the https://opentdb.com/ api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MainHobo/Quiz.git"
+  },
+  "author": "Anders Kvålo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MainHobo/Quiz/issues"
+  },
+  "homepage": "https://github.com/MainHobo/Quiz#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
